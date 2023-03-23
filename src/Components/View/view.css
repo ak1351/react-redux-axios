@@ -1,0 +1,13 @@
+#cont1 {
+ height:100%;
+min-width: 200px;
+
+  background-image: linear-gradient(rgba(94, 172, 155, 0), rgb(0, 255, 136));
+}
+#card{
+  margin-top:50px ;
+}
+#ava{
+ display: flex;
+ flex-direction:row;
+}
